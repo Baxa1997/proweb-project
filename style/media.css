@@ -269,6 +269,9 @@
 
 
 @media(max-width:767.98px) {
+    .nav {
+        margin-bottom: 20px !important;
+    }
     
     .contact-block, .service-block, .about-block, .company-block {
         margin-top: 50px !important;
@@ -408,6 +411,7 @@
    }
    h1 {
        line-height: 50px !important;
+       margin-top: 10px !important;
    }
    .subtitle {
        font-size: 18px;
@@ -458,6 +462,9 @@
 
 
 @media(max-width:575.98px) {
+    .nav {
+        margin-bottom: 10px !important;
+    }
     .checkSpeed .container{
         margin: 0 auto !important;
     }
@@ -502,6 +509,7 @@
   h1 {
       font-size: 20px !important;
       line-height: 50px !important;
+      margin-top: 10px !important;
   }
   
   .start-link {
