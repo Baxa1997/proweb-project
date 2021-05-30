@@ -1,9 +1,7 @@
 * {
     padding:0;
     margin:0;
-    box-sizing: border-box;
-    text-decoration: none;
-    list-style: none;
+    box-sizing: border-box;    list-style: none;
 }
 body {
     background: #fff;
@@ -925,6 +923,7 @@ footer h2 {
     background: #fff;
     display: flex;
     border:1px solid rgb(196, 194, 194);
+    margin-top: 20px;
 }
 .slider2 .feedback-items {
     display: none !important;
@@ -985,7 +984,7 @@ footer h2 {
    margin:24px 0; 
 }
 .slider2 .buttons {
-    bottom:-30px;
+    bottom:-45px;
 }
 .readMore {
     font-size: 11px;
